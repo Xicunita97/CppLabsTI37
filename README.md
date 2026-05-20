@@ -7,4 +7,5 @@ Aqui vai estar alguns exemplos desenvolvidos ao longo da UFCD
 Alguns dos exemplos principais
 
 - `ConversorCambial.cpp` : Programa para converter de Eur para USD
-`Vectores1.cpp` : como utilizador `std::vector`
+- `Vectores1.cpp` : como utilizador `std::vector`
+- `Strings1.cpp` : como utilizar `std::string`
